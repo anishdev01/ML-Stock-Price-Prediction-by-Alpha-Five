@@ -1,4 +1,4 @@
-# 📈 Indian Stock Price Predictor by Anish
+# 📈 Indian Stock Price Predictor of Nifty50 by Anish
 LIVE DEPOLY 🚀 -- https://ml-stock-price-prediction-by-anish.vercel.app/
 
 A clean ML web app that predicts Indian stock prices using 5 machine learning models.
